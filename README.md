@@ -1,4 +1,4 @@
-# Weeman - http server for phishing
+# https://github.com/nyanduga/Weeman - http server for phishing
 
 This is a copy of the original https://github.com/Hypsurus/weeman repository because the complete account was removed. All credits goes to Hypsurus and the constributers of this project.
 
